@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">Schaste</string>
+    <array name="room130_images">
+        <item>@drawable/room130_1</item>
+        <item>@drawable/room130_2</item>
+        <item>@drawable/room130_3</item>
+        <item>@drawable/room130_4</item>
+        <item>@drawable/room130_5</item>
+        <item>@drawable/room130_6</item>
+        <item>@drawable/room130_7</item>
+        <item>@drawable/room130_8</item>
+        <item>@drawable/room130_9</item>
+        <item>@drawable/room130_10</item>
+    </array>
+    <array name="room22_images">
+        <item>@drawable/room22_1</item>
+        <item>@drawable/room22_2</item>
+        <item>@drawable/room22_3</item>
+        <item>@drawable/room22_4</item>
+        <item>@drawable/room22_5</item>
+    </array>
+    <array name="room95_images">
+        <item>@drawable/room95_1</item>
+        <item>@drawable/room95_2</item>
+        <item>@drawable/room95_3</item>
+        <item>@drawable/room95_4</item>
+        <item>@drawable/room95_5</item>
+        <item>@drawable/room95_6</item>
+        <item>@drawable/room95_7</item>
+        <item>@drawable/room95_8</item>
+        <item>@drawable/room95_9</item>
+        <item>@drawable/room95_10</item>
+    </array>
 </resources>
