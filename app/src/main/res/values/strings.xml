@@ -10,7 +10,6 @@
         <item>@drawable/room130_7</item>
         <item>@drawable/room130_8</item>
         <item>@drawable/room130_9</item>
-        <item>@drawable/room130_10</item>
     </array>
     <array name="room22_images">
         <item>@drawable/room22_1</item>
@@ -29,6 +28,5 @@
         <item>@drawable/room95_7</item>
         <item>@drawable/room95_8</item>
         <item>@drawable/room95_9</item>
-        <item>@drawable/room95_10</item>
     </array>
 </resources>
