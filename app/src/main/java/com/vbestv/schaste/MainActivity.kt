@@ -27,9 +27,7 @@ class MainActivity : AppCompatActivity() {
             val mapIntent = Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q=56.01205284934431, 92.87463471078709(Пр.Мира 49)"))
             mapIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
             mapIntent.setPackage("com.google.android.apps.maps")
-            if (mapIntent!=null){
-                startActivity(mapIntent)
-            }
+            startActivity(mapIntent)
         }
     }
 }
