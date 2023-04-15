@@ -1,7 +1,6 @@
 package com.vbestv.schaste
 
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -25,8 +24,7 @@ class GalleryActivity : AppCompatActivity() {
         room130Insert()
 
         binding.backButton.setOnClickListener{
-            val intent = Intent(this, MainActivity::class.java)
-            startActivity(intent)
+            finish()
 
         }
         binding.gallery22.setOnClickListener{
