@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278130602395",
+    "firebase_url": "https://table-time-6b713-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "table-time-6b713",
+    "storage_bucket": "table-time-6b713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278130602395:android:2f7fc5d369afc267d8b13e",
+        "android_client_info": {
+          "package_name": "com.vbestv.schaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278130602395-c0ufrp7bjqo3tk1mfuvfe40lv0l1iu8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLkkXXWIKcEjTEPUzq7bjIbYBiG0qFYzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278130602395-c0ufrp7bjqo3tk1mfuvfe40lv0l1iu8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

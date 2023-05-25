@@ -18,14 +18,16 @@ class GalleryActivity : AppCompatActivity() {
         binding=ActivityGalleryBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
-
         room22Insert()
         room95Insert()
         room130Insert()
+        Glide.with(this)
+            .load(R.drawable.background)
+            .centerCrop()
+            .into(binding.imageView)
 
         binding.backButton.setOnClickListener{
             finish()
-
         }
         binding.gallery22.setOnClickListener{
             if (binding.tableLayout.visibility ==View.GONE){
